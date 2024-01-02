@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software and quick hacks.
 - 🎓 &nbsp; Studying Information Technology at Narula Institute of Technology.
-- 🌱 &nbsp; Learning more about Fullstack Web Development, Data Structures, System Design and AWS tools.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 💻 &nbsp; Learning more about Fullstack Web Development, Data Structures, System Design and AWS tools.
+- 📷 &nbsp; Pursuing Photography as a hobby
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -22,7 +22,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -32,12 +32,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-
-<br/>
 
 <a href="https://github.com/Aditya-Ghosh-27">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditya-Ghosh-27&theme=buefy&show_icons=true" />
@@ -52,4 +46,4 @@
 <a href="https://www.linkedin.com/in/aditya-ghosh-4b4032252/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Ghosh-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
-⭐️ From [Aditya Ghosh](https://github.com/Aditya-Ghosh-27)
+⭐️ Made with ❤ by [Aditya Ghosh](https://github.com/Aditya-Ghosh-27)
