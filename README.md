@@ -28,7 +28,7 @@
 )&nbsp;
 ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white
 )&nbsp;
-![TAILWIND CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)\
+![TAILWIND CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
@@ -65,6 +65,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aditya-ghosh-4b4032252/"><img src="https://img.shields.io/badge/-Aditya%20Ghosh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/AdityaGhosh2711"><img src="https://img.shields.io/badge/-Aditya%20Ghosh-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
 ⭐️ Made with ❤ by [Aditya](https://github.com/Aditya-Ghosh-27)
