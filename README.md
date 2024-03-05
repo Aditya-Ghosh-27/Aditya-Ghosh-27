@@ -1,7 +1,5 @@
 <h1>👋 Hey there! I'm Aditya</h1
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software and quick hacks.\
