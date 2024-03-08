@@ -73,4 +73,4 @@
 <a href="https://twitter.com/AdityaGhosh2711"><img src="https://img.shields.io/badge/-Aditya%20Ghosh-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
-⭐️ Made with ❤ by [Aditya](https://github.com/Aditya-Ghosh-27) who is 20 years old.
+⭐️ Made with ❤ by [Aditya](https://github.com/Aditya-Ghosh-27) 
