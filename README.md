@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software and quick hacks.\
 🎓 &nbsp;I'm currently studying Information Technology at Narula Institute of Technology.\
-🏫 &nbsp;I'm currently learning Typescript and REACT.\
+🏫 &nbsp;I'm currently learning Typescript and Redux Toolkit.\
 🌱 &nbsp;I'm on track for learning more about Full Stack Web Development, Data Structures, Systems Design, and Cloud tools like AWS.\
 ✍️ &nbsp;In my free time, I pursue Photography and Blog Writing as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at adi27.ghosh@gmail.com! I'll try to respond as soon as I can.
